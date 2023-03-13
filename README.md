@@ -5,9 +5,9 @@ learning new things.Feel free to give advices.
 
 Prerequisites
 1.C++ Compiler (MinGW , GNU C++ compiler etc.)
-2.An IDE to edit the code (Codeblocks , Eclipse etc.)
+2.An IDE to edit the code (Codeblocks , Eclipse etc.) 
 
-How to run?
+How to run it successfully?
 Read the compilers documentation and run it using the terminal or command prompt.
          Lets take the example of GNU C++ compiler.
          Open your command prompt and locate the file.Then type in g++ <filename>.
