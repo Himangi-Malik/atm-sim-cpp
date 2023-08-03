@@ -1,7 +1,7 @@
 ATM Simulator
 Getting Started
-A basic C++ program.Don judge my coding skill based on this program.Im just a budding programmer 
-learning new things.Feel free to give advices.
+A basic C++ program.Don judge my coding skill based on this program.I'm just a budding programmer 
+learning new things.Feel free to give advices!
 
 Prerequisites
 1.C++ Compiler (MinGW , GNU C++ compiler etc.)
